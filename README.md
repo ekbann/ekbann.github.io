@@ -6,7 +6,7 @@ Renamed *index.md* to *README.md*
 
 ```
 for (i=0; i<10; i++) {
-	printf("hello);
+	printf("hello\n");
 }
 ```
 
