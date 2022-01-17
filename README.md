@@ -1,6 +1,8 @@
 #### Hello World
 
-This *website* is using Markdown. Let's see if the **title H4** changes...
+This *website* is using Markdown. Let's see if the **H4 header** overrides the title... NO
+
+Renamed *index.md* to *README.md*
 
 ```
 for (i=0; i<10; i++) {
@@ -8,7 +10,7 @@ for (i=0; i<10; i++) {
 }
 ```
 
-Another dream computer: Sun Microsystems SPARCstation 20 (SS20)
+Another dream computer: **Sun Microsystems SPARCstation 20** (SS20)
 
 - introduced March 1994 for US$12,195 (US$21,300 in 2020)
 - 200MHz Ross hyperSPARC
