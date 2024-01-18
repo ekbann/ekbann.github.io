@@ -4,7 +4,9 @@ title:  "Fishing Tackle FAQ"
 date:   2024-01-18 12:00:00 -0300
 categories: fishing tackle reel rod
 ---
-# Fishing Tackle FAQ
+### Useful Knowledge for Simple Fishing
+
+![Jekyll-MathJax logo](/assets/img/fishing.png "Fishing logo")
 
 - **Ultra-light** (UL) tackle for trout/bass/panfish (< 8 lbs): 6'6", 2-6 lbs, < 1/4 oz, 1000 reel, gear ratio 4.9-6.2:1
 - Minimum tackle for **in-shore saltwater** (upper end of UL): 6'6" (4.4 - 13.2 lbs) rod with a 2000 reel and 10 lbs braid main (or 7'/2500/15 lbs combo).
