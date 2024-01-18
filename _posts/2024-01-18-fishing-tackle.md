@@ -9,6 +9,7 @@ categories: fishing tackle reel rod
 - **Ultra-light** (UL) tackle for trout/bass/panfish (< 8 lbs): 6'6", 2-6 lbs, < 1/4 oz, 1000 reel, gear ratio 4.9-6.2:1
 - Minimum tackle for **in-shore saltwater** (upper end of UL): 6'6" (4.4 - 13.2 lbs) rod with a 2000 reel and 10 lbs braid main (or 7'/2500/15 lbs combo).
 - **Uni-knot** is an *universal knot* for hook, spool, and swivel/snap (girador). Thick lines use 3 loops, medium 4, and light 6.
+- **Double Uni-knot** can be used to join mono to mono or mono to braid. Use 5 turns for mono and 10 turns for braid.
 - **Max drag** should be 25%-33% of line strength.
 - The biggest thing is you **NEVER** want to be reeling in while your drag is being pulled. This does not gain any line or add tension to the fish, *it only twists your line*. So either stop reeling and let the fish run, or tighten the drag then reel.
 - The **weight** (or **power**) rating of a fishing pole refers to its resistance to bending. In other words, a light rod is less stiff, and therefore bends more easily than a heavy one.
