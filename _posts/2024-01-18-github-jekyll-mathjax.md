@@ -34,15 +34,46 @@ The idea is to create a GitHub page, then to use Jekyll to style your blog and a
 
 There are several ways to set up Jekyll with your GitHub page. One can install themes using Ruby Gems, or use one of the themes provided by GitHub. But to enable MathJax, one has to manually tweak the html code for the theme. So instead, we will fork an specific theme, and modify it.
 
-First, we need to install Jekyll and Bundle (which helps manage Ruby Gems). If you are using Ubuntu 20.04, you might already have Ruby installed. Otherwise, you might need to install it. The command below will install Ruby, and then install Jekyll and Bundle.
+First, we need to install Jekyll and Bundle (which helps manage Ruby Gems). If you are using Ubuntu 20.04, you might already have Ruby installed (check with `ruby -v` and `gem -v`). Otherwise, you might need to install it. The command below will install Ruby.
 
 ```
-sudo apt install ruby-dev
-gem install jekyll
-gem install bundler
+sudo apt install ruby-full
 ```
 
-With these few lines of code, you can already set up your blog with Jekyll, just run the following
+To install *RubyGems*, we need development packages installed. Some distributions already has this installed. Check with `gcc -v`,`g++ -v`, and `make -v`. If they are missing, install them with:
+
+```
+sudo apt install build-essential zlib1g-dev
+```
+
+Avoid installing RubyGems packages (called gems) as the root user. Instead, set up a gem installation directory for your user account. The following commands will add environment variables to your `~/.bashrc` file to configure the gem installation path:
+
+```
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+Finally, install Jekyll and Bundler:
+
+```
+gem install jekyll bundler
+```
+
+If you get *permission errors* like I did running inside Crostini on a Chromebook, run instead:
+
+```
+sudo gem install jekyll bundler
+```
+
+Sometimes you will need to satisfy a few dependencies. Do so with:
+
+```
+sudo bundle install
+```
+
+That’s it! You’re ready to start using Jekyll. Now you can set up your blog with Jekyll, executing:
 
 ```
 jekyll new my-website
@@ -57,14 +88,15 @@ bundle exec jekyll serve
 
 Now go into your browser and go to “localhost:4000” and you can see your blog.
 
-Your blog is already functional! You can just copy all the files inside the “./my-website” folder, and move them to your git repository, and then push them to GitHub. After a few seconds, your blog will be up on the web. Below I show an example:
+Your blog is already functional! You can just copy all the files inside the “./my-website” folder, and move them to your git repository (make sure the repository is called *your_github_username*.github.io and that it is completely empty), and then push them to GitHub. After a few seconds, your blog will be up on the web. Below I show an example using a fictitious username called *blogger*:
 
 ```
-mv ./my-website/* ./coffee-in-a-klein-bottle.github.io
-cd ./coffee-in-a-klein-bottle.github.io
-git add -A
+git clone https://github.com/blogger/blogger.github.io
+mv ./my-website/* ./blogger.github.io
+cd ./blogger.github.io
+git add .
 git commit -m “Initiated my Jekyll blog”
-git push -u origin master
+git push
 ```
 
 ## Quick guide to using Jekyll
@@ -101,7 +133,7 @@ First, let’s go to the “minima” theme GitHub repository, and then download
 ```
 cd ~/
 git clone https://github.com/jekyll/minima.git
-cd ./coffee-in-a-klein-bottle.github.io
+cd ./blogger.github.io
 rm ./*
 mv ~/minima/* ./
 bundle exec jekyll serve
@@ -109,7 +141,7 @@ bundle exec jekyll serve
 
 Go to the “localhost:4000” and see if your site is working properly. If it is, then stop the server, and let’s modify the theme to enable MathJax.
 
-Open the “_layout/default.html” file and add the CDN for MathJax. In other words, open “_layout/default.html” and paste this two lines in the end of the file:
+Open the “_layout/default.html” file (sometimes it is `_layout/base.html` for the latest *minima* theme) and add the CDN for MathJax. In other words, open “_layout/default.html” and paste this two lines in the end of the file:
 
 ```
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
