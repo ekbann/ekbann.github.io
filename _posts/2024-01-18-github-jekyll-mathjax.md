@@ -12,7 +12,7 @@ There are several ways to create your personal blog on the web, but not as many 
 
 ## What is Jekyll and MathJax
 
-In this tutorial, I will assume that you now what GitHub is, and that you can use it to host your personal website using GitHub Page. If you don’t, then take a look at this Tutorial. With that being said, let’s explain what Jekyll and MathJax are…
+In this tutorial, I will assume that you know what GitHub is, and that you can use it to host your personal website using GitHub Page. If you don’t, then take a look at this [Tutorial](https://docs.github.com/en/pages/quickstart). With that being said, let’s explain what Jekyll and MathJax are…
 
 >Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 >

@@ -25,6 +25,17 @@ Rod Action:
 - **Moderate** action rods you trade a little less sensitivity for a little more casting range. These are great rods for treble hook applications like crankbaits because the lighter action on hook set keeps the lure in the fish’s mouth.
 - **Slow** action rods bend most of the way down, and have become much less popular in today’s fishing applications due to the technology advances in rod design – but ultra-light and some fly fishing applications still utilize these soft rods.
 
+Making Sense of **rod rating**, **line strength**, and **reel max drag**:
+
+- First, start with the rod, e.g. 6-12#.
+- Second, define a middle poundage for the line, i.e. 9#.
+- Lastly, set the reel drag to 3# which is 1/3 of line breaking.
+- Remember that drag starts to increase as line is being released.
+- This setup will give a good bend on the rod safely within the rating when loaded, i.e. the angle between rod and line is *obtuse*.
+- It is ideal that you want the line to break before the rod.
+- If using heavier line than the rod rating, it is **important** to set the drag to **LESS* than the rod rating. This will cause the fish to pull drag instead of forcing and possibly breaking the rod.
+- So, when choosing a reel, pick one who's max drag is less that the rod's maximum line weight. Anything bigger will just be bulkier and heavier and not used to its maximum potential.
+
 ## Pflueger Trion Spincast
 
 - Gear ratio: 4.1:1
