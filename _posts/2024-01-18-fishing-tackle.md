@@ -39,8 +39,8 @@ Making Sense of **rod rating**, **line strength**, and **reel max drag**:
 
 - Gear ratio: 4.1:1
 - Max Drag: 4 lbs
-- Pre-spooled: Mono 4 lbs/70 yds (0.20mm/65m)
-- Spool capacity: 0.13mm/80m, 0.20mm/65m
+- Pre-spooled: Mono 4 lbs/70 yds (0.20 mm/65 m)
+- Spool capacity: 0.13 mm/80 m, 0.20 mm/65 m
 
 Dock Demon rod:
 
@@ -54,7 +54,7 @@ Recommendations for rainbow trout (8-20 in.):
 
 - General use: mono 6-10 lbs test + fluoro 2-4 lbs test
 - Clear water: 4-6 lbs test
-- Main: mono 9 lbs/0.18mm (Raiglon)
+- Main: mono 9 lbs/0.18 mm (Raiglon)
 - Lure: spoon
 - Hook: barbless hooks sizes 10 to 14
 
@@ -78,7 +78,7 @@ Albatroz Topaz C502 rod:
 Recommendations for matrinxã/tilápia:
 
 - General use: mono 10 lbs test + mono 2-4 lbs test
-- Main: mono 9 lbs/0.18mm (Raiglon)
+- Main: mono 9 lbs/0.18 mm (Raiglon)
 - Leader: 49 lbs/0.47 mm (Raiglon)
 - Lure: hot-dogs, no lead, float size 4, hook size 8
 
@@ -99,9 +99,9 @@ Recommendations:
 
 - Gear ratio: 4.0:1
 - Max Drag: 11 lbs
-- Pre-spooled: Mono 10lbs/160yds (0.25mm/145m)
+- Pre-spooled: Mono 10 lbs/160 yds (0.25 mm/145 m)
 - IPT: 15.75”
-- Spool capacity: 0.25mm/145m, 0.28mm/120m
+- Spool capacity: 0.25 mm/145 m, 0.28 mm/120 m
 
 Albatroz Pro Staff C562 rod:
 
@@ -111,7 +111,7 @@ Albatroz Pro Staff C562 rod:
 - Line: 8-17 lbs
 - Lure: 7 - 28 g (1/4 - 1 oz)
 
-## Midgard SG Baitcast
+## Maruri Midgard SG Baitcast
 
 - Gear ratio: 8.1:1
 - Max Drag 15.4 lbs (7 kgs)
@@ -134,11 +134,11 @@ Recommendation:
 
 ## Zebco 888 Spincast
 
-- Gear ratio:
-- Max drag: 
-- Pre-spooled: 
-- IPT: 
-- Spool capacity: 
+- Gear ratio: 2.6:1
+- Max drag: 30 lbs
+- Pre-spooled: 25 lbs/110 yds
+- IPT: 19
+- Spool capacity: 25 lbs/110 yds
 
 Albatroz Sargo C240 rod:
 
@@ -151,7 +151,7 @@ Albatroz Sargo C240 rod:
 # ~~Fishing Tackle~~
 
 - Mono leader 4 lbs/0.18 mm (Maxima Ultragreen)
-- Mono main: 8.95lbs/0.18 mm (Raiglon) 4.06kgs
+- Mono main: 8.95 lbs/0.18 mm (Raiglon) 4.06kgs
 - Mono main: yellow 11 lbs/0.20 mm (Duranew)
 - Mono leader: 15 lbs/0.26 mm (Raiglon)
 - Braid main: 10 lbs/0.13 mm (Shimano)
@@ -180,7 +180,7 @@ Albatroz Sargo C240 rod:
 
 - Gear ratio: 5.2:1
 - Max Drag: 17.5 lbs (8 kgs)
-- Pre-spooled: Mono 6 lbs / 150m (0.25mm)
+- Pre-spooled: Mono 6 lbs/150 m (0.25 mm)
 - Capacity: 0.20/240 0.25/200 0.30/140 (mm/m)
 - Capacity: 8/220 10/160 12/120 (lbs/yds)
 
