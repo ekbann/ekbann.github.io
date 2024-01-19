@@ -1,6 +1,14 @@
-# HOW-TO: Git
+---
+layout: post
+title:  "Git for the Impatient"
+date:   2024-01-17 12:44:36 -0300
+categories: git github howto
+---
+### A Simple Git How-To
 
-#### Create a new repository on GitHub
+![Git-GitHub logo](/assets/img/git-github.jpeg "Git-GitHub logo")
+
+## Create a new repository on GitHub
 
 - To begin, sign in to your user account on *GitHub*.
 - In the upper right corner, click the `+` sign icon, then choose **New repository**. This will take you to a page where you can enter a repository name (this tutorial uses `test-repo` as the repository name), description, and choose to initialize with a README (a good idea!).
@@ -8,7 +16,7 @@
 - Similarly, in practice you should choose a license to that people know whether and how they can use your code.
 - Once you have entered a repository name and made your selection, select **Create repository**, and you will be taken to your new repository web page.
 
-#### Clone your repository to your local machine
+## Clone your repository to your local machine
 
 Next, clone your newly created repository from GitHub to your local computer. From your repository page on GitHub, click the green button labeled **Clone or download**, and in the “Clone with HTTPs” section, copy the URL for your repository.
 
@@ -47,7 +55,7 @@ Note: The repository name and output numbers that you see on your computer, repr
 
 To verify that your repository now exists locally, type `ls` in your terminal. The ls command lists the files & folders available in your current directory. You should see a directory with the same name as the repository that you created previously on GitHub.
 
-#### Tracking changes with `git add` and `git commit`
+## Tracking changes with `git add` and `git commit`
 
 Next use cd to change directories using the syntax:
 
@@ -76,7 +84,7 @@ Simply open your file browser and navigate to the new local repo.
 
 Using either method, we can see that the file structure of our cloned repo mirrors the file structure of our forked GitHub repo.
 
-#### Edit a file in your repo
+## Edit a file in your repo
 
 Next, open up your favorite text editor and make a few edits to the `README.md` file. Save your changes.
 
@@ -101,7 +109,7 @@ The output from `git status` indicates that you have modified the file `README.m
 1. `add` the changes, then
 2. `commit` the changes.
 
-##### Add and commit changes
+### Add and commit changes
 
 You will use the add and commit functions to add and commit changes that you make to git.
 
@@ -110,7 +118,7 @@ You will use the add and commit functions to add and commit changes that you mak
 
 These two commands make up the bulk of many workflows that use git for version control.
 
-##### Add files
+### Add files
 
 You can add an individual file or groups of files to git tracking. To add a single file, use
 
@@ -132,7 +140,7 @@ git add --all
 
 Use `git add --all` with caution. You do not want to accidentally add things like credential files, `.DS_Store` files, or history files.
 
-##### Commit files
+### Commit files
 
 Once you are ready to make a snapshot of the current state of your repository, you can use `git commit`. The git commit command requires a **commit message** that describes the snapshot / changes that you made in that commit.
 
@@ -157,7 +165,7 @@ git commit
 
 Once you save your commit message and exit the text editor, the file that you created will contain your commit message.
 
-##### Challenge
+### Challenge
 
 Make changes to files in your git repo. These changes may includes
 
@@ -223,7 +231,7 @@ You may want to ignore certain files for multiple reasons:
 - The files are system specific and do not need to exist on every machine’s copy.
 - Temporary files such as compiled code.
 
-#### Push changes to GitHub
+## Push changes to GitHub
 
 So far we have only modified our local copy of the repository. To add the changes to your git repo files on your computer to the version of your repository on GitHub, you need to **push** them GitHub.
 
@@ -237,7 +245,7 @@ You will then be prompted for your GitHub user name and password. After you’ve
 
 **ERRATA:** Recently, GitHub has replaced authentication with passwords to a more secure method using **tokens**. See below.
 
-#### Personal Access Token
+## Personal Access Token
 
 First, you need to create a [personal access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) (PAT). Now, when you *push* your commits GitHub will then ask for your PAT instead of your password.
 
@@ -249,7 +257,7 @@ Password: <my-personal-access-token>
 
 PAT is much more secure and has an expiration date as well. You can even have different PATs for different computers.
 
-#### Actually using the token
+## Actually using the token
 
 One drawback is that the PAT is really hard to remember and it is not something you want to keep inside a plaintext file. You can automate the authentication like this:
 
@@ -271,7 +279,7 @@ git clone https://[TOKEN]@github.com/[REPO-OWNER]/[REPO-NAME]
 
 *"Oh, so one goes and put a private information in the clear, in an URL, for every sniffer and router to see. And bash history... nice."*
 
-#### Another way to save your credentials in Git
+## Another way to save your credentials in Git
 
 **Attention**: This method saves the credentials in plaintext on your PC's disk. Everyone on your computer can access it, e.g. malicious NPM modules.
 
