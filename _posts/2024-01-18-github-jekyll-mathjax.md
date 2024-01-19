@@ -157,6 +157,8 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 Finally, just push all the file to your repository, and your personal mathematics blog will be on the web open and running.
 
+![Jekyll blog](/assets/img/jekyll.png "Jekyll blog")
+
 ## Addendum
 
 ### Adding Images to your Posts
