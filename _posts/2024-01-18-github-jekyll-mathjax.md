@@ -128,7 +128,7 @@ Finally, the “_posts/” folder is where you will store your posts files. This
 
 Unfortunately, most Jekyll themes don’t come with MathJax enabled right out of the box, so we have to do this manually, and this require that we modify the files of the theme. When hosting your blog on GitHub, some themes are natively supported (such as the minima theme), but the theme files cannot be modified this way. So we will need to bring all the theme files to the repository and modify them there.
 
-First, let’s go to the “minima” theme GitHub repository, and then download the repository to your computer. Delete all the files in your GitHub repository containing the website, and then copy all the files from the “minima” folder to your repository. Then, run the Jekyll command to see if your site is still working. Below are the commands showing an example of how to do this:
+First, let’s go to the [minima](https://github.com/jekyll/minima) theme GitHub repository, and then download the repository to your computer. Delete all the files in your GitHub repository containing the website, and then copy all the files from the “minima” folder to your repository. Then, run the Jekyll command to see if your site is still working. Below are the commands showing an example of how to do this:
 
 ```
 cd ~/
@@ -141,7 +141,7 @@ bundle exec jekyll serve
 
 Go to the “localhost:4000” and see if your site is working properly. If it is, then stop the server, and let’s modify the theme to enable MathJax.
 
-Open the “_layout/default.html” file (sometimes it is `_layout/base.html` for the latest *minima* theme) and add the CDN for MathJax. In other words, open “_layout/default.html” and paste this two lines in the end of the file:
+Open the `_layout/default.html` file (sometimes it is `_layout/base.html` for the latest *minima* theme) and add the CDN for MathJax. In other words, open `_layout/default.html` and paste this line to the end of the file:
 
 ```
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
