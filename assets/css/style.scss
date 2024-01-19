@@ -5,3 +5,15 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.search input {
+#    display: block;
+#    margin-left: 20%;
+#    margin-right: auto;
+    height: 30px;
+    width: 60%;
+    padding-left: 10px;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    font-size: 16px;
+}

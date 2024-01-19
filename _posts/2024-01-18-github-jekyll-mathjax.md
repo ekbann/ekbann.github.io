@@ -157,7 +157,9 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 Finally, just push all the file to your repository, and your personal mathematics blog will be on the web open and running.
 
-## Addendum: Adding Images to your Posts
+## Addendum
+
+### Adding Images to your Posts
 
 In the root directory of "my-website", create the directory `assets/img`. Simply add any images to the `img` sub-directory and then you can add an inline image as follows:
 
@@ -165,3 +167,45 @@ In the root directory of "my-website", create the directory `assets/img`. Simply
 ![Jekyll-MathJax logo](/assets/img/jekyll-mathjax.png "Jekyll-MathJax logo")
 ```
 
+### Adding a Search Bar
+
+We are going to [Search with Lunr.js](https://jekyllcodex.org/without-plugin/search-lunr/#)
+
+Download and save the file `search-lunr.html` in `_includes`. In this file, you can exclude the types of documents to search.
+
+Download and save the file `lunr.js` in `assets/js` folder, then make sure that `search-lunr.html` indicates the correct location of the file. For example:
+
+```
+src="/assets/js/lunr.js"
+```
+
+cp /home/tom/.rvm/gems/ruby-2.7.1@blog/gems/minima-2.5.1/_layouts/default.html _layouts/
+
+Inside the `_layouts/base.html` (or sometimes `default.html`) layout page, include the `search-lunr.html` as indicated in the docs inside curly percentage brackets. Add this in the `main` class, before the `content` tag.
+
+{% include search-lunr.html %}
+
+#### CSS for Jekyll Search
+
+Customize the CSS for the search box. At the bottom of `search-lunr.html` there is code within `<form>...</form>`. You can wrap this in a class:
+
+```
+<div class="search">
+    <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+        <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search" /></p>
+    </form>
+</div>
+```
+
+Then in `assets/main.scss` you can try something like this:
+
+```
+.search input {
+    height: 30px;
+    width: 60%;
+    padding-left: 10px;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    font-size: 16px;
+}
+```
