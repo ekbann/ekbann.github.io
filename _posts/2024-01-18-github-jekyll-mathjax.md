@@ -171,19 +171,19 @@ In the root directory of "my-website", create the directory `assets/img`. Simply
 
 We are going to [Search with Lunr.js](https://jekyllcodex.org/without-plugin/search-lunr/#)
 
-Download and save the file `search-lunr.html` in `_includes`. In this file, you can exclude the types of documents to search.
+Download and save the file [`search-lunr.html`](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/search-lunr.html) in `_includes`. In this file, you can exclude the types of documents to search.
 
-Download and save the file `lunr.js` in `assets/js` folder, then make sure that `search-lunr.html` indicates the correct location of the file. For example:
+Download and save the file [`lunr.js`](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/js/lunr.js) in `assets/js` folder, then make sure that `search-lunr.html` indicates the correct location of the file. For example:
 
 ```
 src="/assets/js/lunr.js"
 ```
 
-cp /home/tom/.rvm/gems/ruby-2.7.1@blog/gems/minima-2.5.1/_layouts/default.html _layouts/
-
-Inside the `_layouts/base.html` (or sometimes `default.html`) layout page, include the `search-lunr.html` as indicated in the docs inside curly percentage brackets. Add this in the `main` class, before the `content` tag.
+Inside the `_layouts/base.html` (or sometimes `default.html`) layout page, include the `search-lunr.html` as indicated in the docs inside curly percentage brackets. Add the following statement to your layout where you want the search box to appear
 
 {% include search-lunr.html %}
+
+Normally in the `main` class before the `content` tag.
 
 #### CSS for Jekyll Search
 
