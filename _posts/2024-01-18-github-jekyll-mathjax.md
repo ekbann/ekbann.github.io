@@ -199,7 +199,7 @@ Customize the CSS for the search box. At the bottom of `search-lunr.html` there 
 </div>
 ```
 
-Then in `assets/main.scss` you can try something like this:
+Then in `assets/css/style.scss` you can add something like this:
 
 ```
 .search input {

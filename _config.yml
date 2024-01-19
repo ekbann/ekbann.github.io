@@ -1,6 +1,6 @@
 title: ekbann's musings
 author:
-  name: ekbann
+  name: Ellery Bann
   email: ekbann@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -50,10 +50,10 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-social_links:
-  - { platform: github,         user_url: "https://github.com/ekbann" }
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/ekbann" }
-  - { platform: twitter,        user_url: "https://twitter.com/ellerybann" }
+  social_links:
+    - { platform: github,         user_url: "https://github.com/ekbann" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/ekbann" }
+    - { platform: twitter,        user_url: "https://twitter.com/ellerybann" }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
