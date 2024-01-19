@@ -1,6 +1,14 @@
-# HOW-TO: DropBox
+---
+layout: post
+title:  "DropBox in Linux"
+date:   2024-01-13 12:00:00 -0300
+categories: dropbox linux howto
+---
+### A Simple DropBox for Linux How-To
 
-#### Dropbox Headless Install via command line
+![Tux-DropBox logo](/assets/img/tux-dropbox.png "Tux-DropBox logo")
+
+## Dropbox Headless Install via command line
 
 The Dropbox daemon works fine on all 32-bit and 64-bit Linux servers. To install, run the following command in your Linux terminal.
 
@@ -16,7 +24,7 @@ Next, run the Dropbox daemon from the newly created `.dropbox-dist` folder.
 
 `~/.dropbox-dist/dropboxd`
 
-#### How to run Dropbox daemon in background?
+## How to run Dropbox daemon in background?
 
 When you run `~/.dropbox-dist/dropboxd` — Dropbox works and stuff. Problem is that when I close terminal or, even worse — reboot, Dropbox stops working and I need to run that daemon again.
 
@@ -25,4 +33,3 @@ How can I have the computer automatically start that daemon in the background?
 If you're running the daemon from your own account, start it at boot time with **Cron**. Run `crontab -e` to edit your crontab file and add the line
 
 `@reboot ~/.dropbox-dist/dropboxd`
-
