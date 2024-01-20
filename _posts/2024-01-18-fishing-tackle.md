@@ -228,14 +228,14 @@ In-shore fishing gear targetting "peixe-espada" (Podem atingir até 2 metros de 
 
 https://pescanapraia.com/a-pesca-do-peixe-espada/
 
-## Daiwa BG 2000 Spinning
+## Daiwa Fuego LT 1000D Spinning
 
-- Gear ratio: 5.6:1
-- Max Drag: 4.4 lbs
+- Gear ratio: 5.2:1
+- Max Drag: 8.8 lbs
 - Pre-spooled: 
-- IPT: 29.5” / (33.2")
-- Spool capacity: braid 10 lbs / 160 yds (146m)
-- Spool capacity: braid 15 lbs / 130 yds (119m)
+- IPT: 25.5"
+- Spool capacity: mono 6 lbs / 160 yds (146m)
+- Spool capacity: braid 8 lbs / 200 yds (182m)
 
 ## Daiwa BG 2500 Spinning
 
