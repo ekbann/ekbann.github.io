@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fishing Tackle FAQ"
+title:  "My Fishing Tackle"
 date:   2024-01-18 12:00:00 -0300
 categories: fishing tackle reel rod
 ---
@@ -34,6 +34,11 @@ Making Sense of **rod rating**, **line strength**, and **reel max drag**:
 - This setup will give a good bend on the rod safely within the rating when loaded, i.e. the angle between rod and line is *obtuse*.
 - It is ideal that you want the line to break before the rod, but if using heavier line than the rod rating, it is **very important** to set the drag to **LESS** than the rod rating. This will cause the fish to pull drag instead of forcing and possibly breaking the rod.
 - So, when choosing a reel, pick one who's max drag is less that the rod's maximum line weight. Anything bigger will just be bulkier and heavier and not used to its maximum potential.
+
+A good learning path is to start with a spin-casting reel to enjoy and learn a few fishing techniques quickly. After you master the spin cast reel, it's time to move to the more modern baitcasting reel. I'd stay with freshwater fishing to avoid corrosion from saltwater. If you want to go for saltwater, then pick a spinning reel. This is what I have planned:
+
+Adult: Brutus spincast $\longrightarrou$ Midgard baitcast $\longrightarrou$ BG 2500 spinning
+Child: Cadet spincast $\longrightarrou$ Ventura baitcast $\longrightarrou$ Fuego 1000 spinning
 
 ## Pflueger Trion Spincast
 
@@ -146,7 +151,9 @@ Albatroz Sargo C240 rod:
 - Power:  N/A
 - Action: med/fast
 - Line: 20-50 lbs
-- Lure: 80 g
+- Lure: 50-80 g
+
+Note that a smaller standard-sized *cevadeira* brand *Kuro* weighs 52 grams empty and 86 grams filled. That's on the higher end for the rod's lure weight. While many use this technique in the *pesqueiros*, I find this to be cheating and refuse to use it. I will accept chumming though.
 
 # ~~Fishing Tackle~~
 
