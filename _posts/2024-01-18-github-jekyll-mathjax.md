@@ -172,12 +172,10 @@ Jekyll simply ***escapes the parenthesis*** and we lose the initial backslash. T
 Another conflicts arise when trying to quote Javascript code (which MathJax runs on). Jekyll/MathJax will not simply display the code but will instead try to *execute* it. To quote Javascript one must use the special Javascript `raw` and `endraw` block tags inside `{% raw %}{%{% endraw %}` and `{% raw %}%}{% endraw %}` delimeters, for example:
 
 ```
-{% raw %}<main class="page-content" aria-label="Content">
-  <div class="wrapper">
-    {% include search-lunr.html %}
-    {{ content }}
-  </div>
-</main>{% endraw %}
+{% raw %}<div class="js_test">
+  {% include this_delimeter_is_a_problem.html %}
+  {{ this_delimeter_is_also_a_problem }}
+</div>{% endraw %}
 ```
 
 ### Adding Images to your Posts
