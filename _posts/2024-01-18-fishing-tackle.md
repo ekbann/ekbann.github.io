@@ -37,8 +37,8 @@ Making Sense of **rod rating**, **line strength**, and **reel max drag**:
 
 A good learning path is to start with a spin-casting reel to enjoy and learn a few fishing techniques quickly. After you master the spin cast reel, it's time to move to the more modern baitcasting reel. I'd stay with freshwater fishing to avoid corrosion from saltwater. If you want to go for saltwater, then pick a spinning reel. This is what I have planned:
 
-- Adult: Brutus spincast \\(rightarrow\\) Midgard baitcast \\(rightarrow\\) BG 2500 spinning
-- Child: Cadet spincast \\(rightarrow\\) Ventura baitcast \\(rightarrow\\) Fuego 1000 spinning
+- Adult: Brutus spincast \\\(rightarrow\\\) Midgard baitcast \\\(rightarrow\\\) BG 2500 spinning
+- Child: Cadet spincast \\\(rightarrow\\\) Ventura baitcast \\\(rightarrow\\\) Fuego 1000 spinning
 
 ## Pflueger Trion Spincast
 
