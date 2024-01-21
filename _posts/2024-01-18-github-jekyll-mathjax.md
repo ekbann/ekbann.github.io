@@ -181,13 +181,22 @@ Download and save the file [`lunr.js`](https://raw.githubusercontent.com/jhvande
 src="/assets/js/lunr.js"
 ```
 
-Inside the `_layouts/base.html` (or sometimes `default.html`) layout page, include the `search-lunr.html` as indicated in the docs inside curly percentage brackets. Add the following statement to your layout where you want the search box to appear
+Inside the `_layouts/base.html` (or sometimes `default.html`) layout page, include the following line to your layout where you want the search box to appear:
 
 ```
-{ % include search-lunr.html % }
+{% raw %}{% include search-lunr.html %}{% endraw %}
 ```
 
-Normally in the `main` class before the line with the `content` tag.
+Normally in the `main` class before the `content` tag like so:
+
+```
+{% raw %}<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    {% include search-lunr.html %}
+    {{ content }}
+  </div>
+</main>{% endraw %}
+```
 
 #### CSS for Jekyll Search
 
