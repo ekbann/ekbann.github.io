@@ -224,9 +224,7 @@ Albatroz Sargo C240 rod:
 
 # Next Wish List
 
-In-shore fishing gear targetting "peixe-espada" (Podem atingir até 2 metros de comprimento e 4 Kg de peso). Deve-se utilizar equipamento de ação média pesada, composto de vara para linhas de 10 a 20 Lbs, carretilha ou molinete com capacidade para 100 m de linha com 0,40 mm de diâmetro e anzóis tipo maruseigo de tamanho 4/0 a 6/0 ou garateias 1/0 a 2/0.
-
-https://pescanapraia.com/a-pesca-do-peixe-espada/
+In-shore fishing gear targeting "[peixe-espada](https://pescanapraia.com/a-pesca-do-peixe-espada/)" (Podem atingir até 2 metros de comprimento e 4 Kg de peso). Deve-se utilizar equipamento de ação média pesada, composto de vara para linhas de 10 a 20 Lbs, carretilha ou molinete com capacidade para 100 m de linha com 0,40 mm de diâmetro e anzóis tipo maruseigo de tamanho 4/0 a 6/0 ou garateias 1/0 a 2/0.
 
 ## Daiwa Fuego LT 1000D Spinning
 
