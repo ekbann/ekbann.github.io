@@ -165,11 +165,11 @@ Finally, just push all the file to your repository, and your personal mathematic
 
 By default, the TeX processor uses the LaTeX math delimiters, which are `\(...\)` for in-line math, and `\[...\]` for displayed equations. It also recognizes the TeX delimiters `$$...$$` for displayed equations, but it does **not** define `$...$` as in-line math delimiters. That is because dollar signs appear too often in non-mathematical settings, which could cause some text to be treated as mathematics unexpectedly.
 
-Unfortunately there are a few conflicts processing Jekyll and MathJax delimeters. To add a mathematical *long right arrow* one would write `\(\longrightarrow\)`, but that doesn't work and is rendered as: **\(\longrightarrow\)**.
+Unfortunately, there are a few conflicts when processing Jekyll and MathJax delimiters. To add a mathematical *long right arrow*, one would write `\(\longrightarrow\)`, but that doesn't work and is rendered as: **\(\longrightarrow\)**.
 
-Jekyll simply ***escapes the parenthesis*** and we lose the initial backslash. To solve this problem we simply ***escape the backslash*** before the parenthesis like this `\\(\longrightarrow\\)` and we finally get \\(\longrightarrow\\).
+Jekyll ***escapes the parenthesis***, and we lose the initial backslash. To solve this problem, we ***escape the backslash*** before the parenthesis like this `\\(\longrightarrow\\)`, and we finally get \\(\longrightarrow\\).
 
-Another conflicts arise when trying to quote Javascript code (which MathJax runs on). Jekyll/MathJax will not simply display the code but will instead try to *execute* it. To quote Javascript one must use the special Javascript `raw` and `endraw` block tags inside `{% raw %}{%{% endraw %}` and `{% raw %}%}{% endraw %}` delimeters, for example:
+Another conflict arises when quoting some Javascript code (which MathJax runs on). Jekyll/MathJax will not simply display the code but will instead try to *execute* it. To quote Javascript sometimes one must use the special Javascript `raw` and `endraw` block tags inside `{% raw %}{%{% endraw %}` and `{% raw %}%}{% endraw %}` delimiters, for example:
 
 ```
 {% raw %}<div class="js_test">
