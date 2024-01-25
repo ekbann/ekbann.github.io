@@ -149,11 +149,11 @@ Open the `_layout/default.html` file (sometimes it is `_layout/base.html` for th
 
 ## Writing Mathematical Equations
 
-You are done! The only thing left to do is to actually start writing your blog posts. So let’s do an example. Open one of the posts files and write `$$ y = x^2 $$`.
+You are done! The only thing left to do is to actually start writing your blog posts. So let’s do an example. Open one of the posts files and write `$$ x = y^2 $$`.
 
 Then, run the Jekyll to visualize your website on the localhost. This is an example of how your post should look:
 
-$$ y = x^2 $$
+$$ x = y^2 $$
 
 Finally, just push all the file to your repository, and your personal mathematics blog will be on the web open and running. **Happy blogging!**
 
