@@ -24,9 +24,9 @@ In other words, Jekyll can be thought as an application written in Ruby, that ea
 >
 >— MathJax Official Website
 
-In other words, MathJax is a service that renders the mathematical equation, so it looks neat in your browser. You can then write in your blog `$$ E = mc^2 $$` and in your browser, MathJax will render it as:
+In other words, MathJax is a service that renders the mathematical equation, so it looks neat in your browser. You can then write in your blog `$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$` and in your browser, MathJax will render it as:
 
-$$ E = mc^2 $$
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 The idea is to create a GitHub page, then to use Jekyll to style your blog and allow the use of markdown, together with MathJax to properly render the equations.
 
@@ -149,11 +149,11 @@ Open the `_layout/default.html` file (sometimes it is `_layout/base.html` for th
 
 ## Writing Mathematical Equations
 
-You are done! The only thing left to do is to actually start writing your blog posts. So let’s do an example. Open one of the posts files and write `$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$`.
+You are done! The only thing left to do is to actually start writing your blog posts. So let’s do an example. Open one of the posts files and write `$$ y = x^2 $$`.
 
 Then, run the Jekyll to visualize your website on the localhost. This is an example of how your post should look:
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$ y = x^2 $$
 
 Finally, just push all the file to your repository, and your personal mathematics blog will be on the web open and running. **Happy blogging!**
 
