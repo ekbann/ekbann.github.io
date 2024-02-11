@@ -17,10 +17,13 @@ My quest to learn computer architecture and programming started in the 80s with 
 - Screen: 15" Retina and True Tone 2880x1800 with touch bar
 - CPU: Intel Core i9-9980HK 2.4GHz (Turbo 5GHz) 8-cores and HT
 - GPU: Intel UHD Graphics 630 with shared memory
-- dGPU: AMD Radeon Vega 20 with 4GB HBM2 memory (5300 G3D Mark) >> 560X
+- dGPU: AMD Radeon Vega 20 with 4GB HBM2 memory (5300 G3D Mark)
+
+>560X (3678 G3D Mark)
 >Vega 16 (4809 G3D Mark)
->5500m (6816 G3D Mark)
+>5500M (6816 G3D Mark)
 >GeForce GTX1070 Max-Q (13,516 G3D Mark)
+
 - Memory: 32GB onboard RAM
 - Storage: 2TB onboard flash storage
 - Battery: 10 hours runtime
