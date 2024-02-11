@@ -19,9 +19,9 @@ My quest to learn computer architecture and programming started in the 80s with 
 - GPU: Intel UHD Graphics 630 with shared memory
 - dGPU: AMD Radeon Vega 20 with 4GB HBM2 memory (5300 G3D Mark)
 
-> 560X (3678 G3D Mark)
-> Vega 16 (4809 G3D Mark)
-> 5500M (6816 G3D Mark)
+> 560X (3678 G3D Mark)  
+> Vega 16 (4809 G3D Mark)  
+> 5500M (6816 G3D Mark)  
 > GeForce GTX1070 Max-Q (13,516 G3D Mark)
 
 - Memory: 32GB onboard RAM
