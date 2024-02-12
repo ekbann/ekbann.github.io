@@ -36,9 +36,11 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 - Date acquired: November 2023 ($350, includes $80 Satechi USB-C Hub) (ML used R$4,000)
 - Model: A1990-3359 (Macmini9,1)
 - CPU: Apple M1 chip
+  
   > 8-core CPU with 4 performance cores and 4 efficiency cores  
   > 8-core GPU  
-  > 16-core Neural Engine  
+  > 16-core Neural Engine
+
 - Memory: 8GB unified memory
 - Storage: 256GB onboard flash storage
 - External Displays: up to two displays 1x 6K (16:9) Thunderbolt and 1x DCI 4K (16:9) HDMI
