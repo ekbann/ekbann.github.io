@@ -72,3 +72,7 @@ Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 - OS: Mac OS 7.5.5 in Mini vMac emulating a Macintosh II with 8MB RAM
 
 ![Macintosh 2](/assets/img/macintosh_ii.jpeg "Macintosh 2")
+
+#### Wickedly Fast!
+
+![Speedometer 3](/assets/img/speedometer3.png "Speedometer 3")
