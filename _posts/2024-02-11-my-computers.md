@@ -61,3 +61,14 @@ Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 - Storage: 2TB M.2 2280
 - GPU: GTX 1070 Max-Q 8GB GDDR5 VRAM
 - Screen: 1920x1080 (16:9) 144Hz
+
+## Retro Machine: Acer Chromebook 14
+
+- CPU: Intel Atom x5-E8000 Quad-Core 1.04GHz (Turbo 2.0GHz)
+- Memory: 4GB LPDDR3
+- Storage: 32GB eMMC
+- GPU: Intel HD Graphics
+- Screen: 14" HD IPS ComfyView LCD LED Display 1366x768 (16:9)
+- OS: Mac OS 7.5.5 in Mini vMac emulating a Macintosh II with 8MB RAM
+
+![Macintosh 2](/assets/img/macintosh_ii.jpeg "Macintosh 2")
