@@ -4,18 +4,18 @@ title:  "I Love Computers"
 date:   2024-02-11 12:44:36 -0300
 categories: hardware computers
 ---
-### My Current Computer Lineup
+### Current Computer Lineup in 2024
 
 ![Apple logos](/assets/img/apple_logos.png "Apple logos")
 
 My quest to learn computer architecture and programming started in the 80s with the `Apple ][+`.
 
-## Main Laptop: 2019 MacBook Pro 
+## Father Laptop: 2019 MacBook Pro 
 
 - Date acquired: February 2024 ($560) (ML used R$9,000)
 - Model: A1990-3359 (MacBookPro15,3)
 - Screen: 15" Retina and True Tone 2880x1800 with touch bar
-- CPU: Intel Core i9-9980HK 2.4GHz (Turbo 5GHz) 8-cores and HT
+- CPU: Intel Core i9-9980HK 2.4GHz (Turbo 5GHz) 8-cores HT
 - GPU: Intel UHD Graphics 630 with shared memory
 - dGPU: AMD Radeon Vega 20 with 4GB HBM2 memory (5300 G3D Mark)
 
@@ -47,6 +47,6 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
 Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 
-## Wife Laptop
+## Mother Laptop: 13" MacBook Air M1 8GB/256GB
 
-## Son Laptop
+## Son Laptop: 15" Alienware m15 i7-8750H 6-cores HT 32GB/2TB GTX 1070 Max-Q 8GB GDDR5 VRAM 1080p 144Hz
