@@ -10,7 +10,7 @@ categories: hardware computers
 
 My quest to learn computer architecture and programming started in the 80s with the `Apple ][+`.
 
-## Father Laptop: 2019 MacBook Pro 
+## Father Laptop: 2019 15" MacBook Pro 
 
 - Date acquired: February 2024 ($560) (ML used R$9,000)
 - Model: A1990-3359 (MacBookPro15,3)
