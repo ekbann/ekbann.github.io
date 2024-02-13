@@ -10,6 +10,8 @@ categories: hardware computers
 
 My quest to learn computer architecture and programming started in the 80s with the `Apple ][+`.
 
+![Apple 2 Plus](/assets/img/apple2plus.jpeg "Apple 2 Plus")
+
 ## Father Laptop: 2019 15" MacBook Pro 
 
 - Date acquired: February 2024 ($560) (ML used R$9,000)
