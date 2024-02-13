@@ -47,6 +47,15 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
 Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 
-## Mother Laptop: 13" MacBook Air M1 8GB/256GB
+## Mother Laptop: 13" MacBook Air M1
 
-## Son Laptop: 15" Alienware m15 i7-8750H 6-cores HT 32GB/2TB GTX 1070 Max-Q 8GB GDDR5 VRAM 1080p 144Hz
+- Memory: 8GB unified memory
+- Storage: 256GB onboard flash storage
+
+## Son Laptop: 15" Alienware m15
+
+- CPU: i7-8750H 6-cores HT
+- Memory: 32GB
+- Storage: 2TB
+- GPU: GTX 1070 Max-Q 8GB GDDR5 VRAM
+- Screen: 1080p 144Hz
