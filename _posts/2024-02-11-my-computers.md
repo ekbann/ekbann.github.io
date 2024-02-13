@@ -14,7 +14,6 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 - Date acquired: February 2024 ($560) (ML used R$9,000)
 - Model: A1990-3359 (MacBookPro15,3)
-- Screen: 15" Retina and True Tone 2880x1800 with touch bar
 - CPU: Intel Core i9-9980HK 2.4GHz (Turbo 5GHz) 8-cores HT
 - GPU: Intel UHD Graphics 630 with shared memory
 - dGPU: AMD Radeon Vega 20 with 4GB HBM2 memory (5300 G3D Mark)
@@ -24,6 +23,7 @@ My quest to learn computer architecture and programming started in the 80s with 
   > 5500M (6816 G3D Mark)  
   > GeForce GTX1070 Max-Q (13,516 G3D Mark)
 
+- Screen: 15" Retina and True Tone 2880x1800 with touch bar
 - Memory: 32GB onboard RAM
 - Storage: 2TB onboard flash storage
 - Battery: 10 hours runtime
@@ -54,8 +54,8 @@ Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 
 ## Son Laptop: 15" Alienware m15
 
-- CPU: i7-8750H 6-cores HT
-- Memory: 32GB
-- Storage: 2TB
+- CPU: Intel Core i7-8750H 2.2GHz (Turbo 4.1GHz) 6-cores HT
+- Memory: 32GB DDR4-2666
+- Storage: 2TB M.2 2280
 - GPU: GTX 1070 Max-Q 8GB GDDR5 VRAM
-- Screen: 1080p 144Hz
+- Screen: 1920x1080 (16:9) 144Hz
