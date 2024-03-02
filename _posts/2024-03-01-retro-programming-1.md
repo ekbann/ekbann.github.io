@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Programming Like It's 1991"
+title:  "Programming Like It's 1993"
 date:   2024-03-01 12:44:36 -0300
 categories: macintosh c retro programming
 ---
