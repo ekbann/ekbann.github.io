@@ -6,13 +6,15 @@ categories: macintosh c retro programming
 ---
 ### Macintosh II, Mac OS 7.5.5, and THINK C 6.0
 
-![THINK C](/assets/img/thinkc.gif "THINK C")
+![Mac II](/assets/img/dither_it_mac2.jpg "Mac II")
 
 ## Before You Begin...
 
 I went to college from 1991 to 1996. What did computers look like in 1994? A mid-range PC typically had a clock-doubled 486DX2-66, 8 MB of RAM, and a 320 MB hard disk. We're going to explore an equivalent Apple Macintosh machine from that era.
 
 ## Your First THINK C Program
+
+![THINK C](/assets/img/thinkc.gif "THINK C")
 
 Welcome, child! Come in, come in! I have so few visitors to this little hut. Pull up a chair, and I’ll put on some tea.
 
