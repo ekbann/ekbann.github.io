@@ -46,13 +46,13 @@ $ ./setup_t -t mc64 > setup.sh
 $ chmod +x setup.sh
 $ ./setup.sh
 $ make
-$ mv minivmac.app/ ../
+$ mv minivmac ../
 $ cd ..
 ```
 At last, we need an artifact which brings with it the spirit of the machine. The read-only memory of another like mine, deftly flensed from aging silicon and transfigured into pure electrical potential:
 ```
-$ wget https://sites.google.com/site/minivmacapplicationsv6/disk-images-and-roms/vmac.rom -O vMac.ROM
-$ open minivmac.app
+$ wget https://github.com/ekbann/ekbann.github.io/blob/main/assets/dat/MacII.ROM
+$ ./minivmac
 ```
 It lives!
 
@@ -65,9 +65,11 @@ See how the emulated screen scintillates on your modern LCD, the reserved orderl
 
 The seventh system brought with it multitasking, which will make it more familiar to your sensibilities. An older version, stripped of inessential baubles, will maximize the resources available to your personal aspirations.
 ```
-$ wget https://sites.google.com/site/minivmacapplicationsv6/systems-os/System7.zip
-$ unzip System7.zip -d System7
+$ wget https://github.com/ekbann/ekbann.github.io/blob/main/assets/dat/hfv500M_sys755_clean.zip
+$ unzip hfv500M_sys755_clean.zip
+$ mv hfv500M_sys755_clean.dsk disk1.dsk
 ```
+
 Feed `System7.DSK` to your homunculus, and see how eagerly it springs into motion:
 
 System folder, in exquisite miniature
