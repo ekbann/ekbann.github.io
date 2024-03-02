@@ -67,7 +67,7 @@ Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 - CPU: Motorola 68020 32-bit 16MHz
 - FPU: Motorola 68881
 - PMMU: Apple HMMU Chip / Motorola 68851
-- OS: Mac OS 7.5.5
+- OS: Mac OS 7.5.5 (1991-1994)
 - Memory: 8MB 120ns 30-pin SIMM
 - Storage: 500MB SCSI hard disk
 - Graphics: 640x480, 1024x768, 1152x870 (24-bit color)
