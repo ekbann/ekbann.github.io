@@ -70,7 +70,7 @@ Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 - OS: Mac OS 7.5.5 (1991-1994)
 - Memory: 8MB 120ns 30-pin SIMM
 - Storage: 500MB SCSI hard disk
-- Graphics: 640x480, 1024x768, 1152x870 (24-bit color)
+- Graphics: 512x384, 640x480, 1024x768, 1152x870 (24-bit color)
 - Released: March 1987 (II series discontinued February 1993)
 
 ![Macintosh 2](/assets/img/macintosh_ii.jpeg "Macintosh 2")
