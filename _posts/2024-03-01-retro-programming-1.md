@@ -10,7 +10,9 @@ categories: macintosh c retro programming
 
 ## Before You Begin...
 
-I went to college from 1991 to 1996. What did computers look like in 1994? A mid-range PC typically had a clock-doubled 486DX2-66, 8 MB of RAM, and a 320 MB hard disk. We're going to explore an equivalent Apple Macintosh machine from that era.
+I went to college from 1991 to 1996. What did computers look like in 1994? A mid-range PC typically had a clock-doubled 486DX2-66, 8 MB of RAM, and a 320 MB hard disk. We're going to explore an equivalent Apple Macintosh machine from that era. I never owned a Macintosh during my college years but my sister did, how lucky she was. The Apple Macintosh II series was released in 1987 and had a healthy run until 1993. The Mac OS 7 operating system debuted in 1991, and the version we use (7.5.5) in our system was released in 1994. Symantec's amazing THINK C version 6 was released in 1993. So, let's go back in time and revisit the good old days!
+
+I shamelessly plagiarized the colorful metaphors used in John Earnest's article from [Beyond Loom](https://beyondloom.com/blog/thinkc.html) and adapted the instructions to the slightly more modern system above.
 
 ## Your First THINK C Program
 
