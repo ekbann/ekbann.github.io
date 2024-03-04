@@ -26,6 +26,37 @@ An elegant machine from a more enlightened age. A 32-bit processor built by… w
 
 I’m afraid my device is too fragile for the roughousing of a novice- it has spent so many years feeling only my touch. Recall, however, the proofs of our saint Turing. We could teach your new machine some old tricks!
 
+## The Host Machine
+
+Install Debian 12 (netinst).
+
+Install admin tools.
+```
+apt install zip unzip curl sudo htop 
+```
+
+Install sound drivers.
+```
+apt install alsa-utils pulseaudio
+alsactl kill quit
+alsactl init
+pulseaudio --kill
+pulseaudio --start
+aplay /usr/share/sounds/alsa/noise.wav
+alsamixer
+```
+
+Install dev tools.
+```
+apt install git make gcc emacs fpc
+apt install xorg libx11-dev
+```
+
+Install toys.
+```
+apt install fortune cowsay lolcat toilet figlet neofetch
+```
+
 ## Soul and Simulacrum
 
 Let us begin by weaving a lucid dream; the bones and sinews of my antique. Teach your contraption the language of the Motorola 68000. The timings of raster beams and serial protocols. As is so often the case, another of our order has already made most of the necessary alignments and gestures- we need only tap into that lifestream.
@@ -44,9 +75,8 @@ $ cd minivmac
 As suits its manifold nature, this body must be instructed as to the form it should take via a configuration tool which must, itself, be compiled.
 ```
 $ cc setup/tool.c -o setup_t
-$ ./setup_t -t mc64 > setup.sh
-$ chmod +x setup.sh
-$ ./setup.sh
+$ ./setup_t -t lx64 -m II -hres 1344 -vres 768 -depth 3 -fullscreen 1 -sound 1 -speed a -em-cpu 2 -iid 1 > setup.sh
+$ . /setup.sh
 $ make
 $ mv minivmac ../
 $ cd ..
@@ -66,10 +96,13 @@ Your nascent servant hungers
 See how the emulated screen scintillates on your modern LCD, the reserved orderliness of 1-bit gray struggling to escape from meddling subpixels and anti-aliasing. *Soon, old friend*. A plaintive glyph leads us toward our next task. We must assemble a disk image with an operating system. To begin, we require a living specimen from which we may take cuttings.
 
 The seventh system brought with it multitasking, which will make it more familiar to your sensibilities. An older version, stripped of inessential baubles, will maximize the resources available to your personal aspirations.
+
+Disk 1 is an HFV 500MB clean install of Mac OS 7.5.5.
+Disk 2 is an HFV 30MB THINK C development system.
+Disk 3 is an HDA 30MB empty disk for development files.
 ```
-$ wget https://github.com/ekbann/ekbann.github.io/blob/main/assets/dat/hfv500M_sys755_clean.zip
-$ unzip hfv500M_sys755_clean.zip
-$ mv hfv500M_sys755_clean.dsk disk1.dsk
+$ wget https://github.com/ekbann/ekbann.github.io/blob/main/assets/dat/THINKC-DEV.zip
+$ unzip THINKC-DEV.zip
 ```
 
 Feed `System7.DSK` to your homunculus, and see how eagerly it springs into motion:
