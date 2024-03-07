@@ -74,73 +74,52 @@ $ cd minivmac
 ```
 As suits its manifold nature, this body must be instructed as to the form it should take via a configuration tool which must, itself, be compiled.
 ```
-$ cc setup/tool.c -o setup_t
+$ gcc setup/tool.c -o setup_t
+```
+To use the full resolution of your  machine, use the following configuration:
+```
 $ ./setup_t -t lx64 -m II -hres 1344 -vres 768 -depth 3 -fullscreen 1 -sound 1 -speed a -em-cpu 2 -iid 1 > setup.sh
+```
+or for those with bad eyesight like myself, use the following configuration instead:
+```
+$ ./setup_t -t lx64 -m II -hres 512 -vres 384 -depth 3 -magnify 1 -fullscreen 1 -sound 1 -speed a -em-cpu 2 -iid 1 > setup.sh
+```
+And now we can finally compile Mini vMac:
+```
 $ . /setup.sh
 $ make
 $ mv minivmac ../
 $ cd ..
 ```
-At last, we need an artifact which brings with it the spirit of the machine. The read-only memory of another like mine, deftly flensed from aging silicon and transfigured into pure electrical potential:
-```
-$ wget https://github.com/ekbann/ekbann.github.io/blob/main/assets/dat/MacII.ROM
-$ ./minivmac
-```
-It lives!
-
-Your nascent servant hungers
-Your nascent servant hungers
-
-## Finding Yourself
-
-See how the emulated screen scintillates on your modern LCD, the reserved orderliness of 1-bit gray struggling to escape from meddling subpixels and anti-aliasing. *Soon, old friend*. A plaintive glyph leads us toward our next task. We must assemble a disk image with an operating system. To begin, we require a living specimen from which we may take cuttings.
-
-The seventh system brought with it multitasking, which will make it more familiar to your sensibilities. An older version, stripped of inessential baubles, will maximize the resources available to your personal aspirations.
-
-Disk 1 is an HFV 500MB clean install of Mac OS 7.5.5.
-Disk 2 is an HFV 30MB THINK C development system.
-Disk 3 is an HDA 30MB empty disk for development files.
-```
-$ wget https://github.com/ekbann/ekbann.github.io/blob/main/assets/dat/THINKC-DEV.zip
-$ unzip THINKC-DEV.zip
-```
-
-Feed `System7.DSK` to your homunculus, and see how eagerly it springs into motion:
-
-System folder, in exquisite miniature
-System folder, in exquisite miniature
-
-Next, create an empty vessel. 80 megabytes will prove ample:
-```
-$ dd if=/dev/zero of=devboot.dsk bs=83886080 count=1
-```
-The Macintosh will shyly accept this offering, and transform its internal structure into something more useful.
-
-Transfiguration
-Transfiguration
-
-Copy the donor *System Folder* (the one on *Disk Tools*) into our new boot volume (*DevBoot*, in our examples), by dragging it from its current location to the destination disk’s icon. From the *Special* menu, choose *Shut Down*. There, there, Macintosh. Rest your head. A final command will make the disk we created the default. The time for rest ends. Reawaken!
-```
-$ mv devboot.dsk disk1.dsk
-$ open ./minivmac.app/
-```
-Four megabytes, with cleverness, is sufficient for many tasks…
-
-Precious Bytes
-Precious Bytes
 
 ## Forge and Hammer
+
+At last, we need a few artifacts which brings with it the spirit of the machine. The read-only memory of another like mine, deftly flensed from aging silicon and transfigured into pure electrical potential:
+
+We must assemble a disk image with an operating system. To begin, we require a living specimen from which we may take cuttings.
+
+The seventh system brought with it multitasking, which will make it more familiar to your sensibilities. An older version, stripped of inessential baubles, will maximize the resources available to your personal aspirations.
 
 You have a machine now. But is it *truly* yours until it has executed a program of your own devising? The native tongue of the Macintosh is Pascal, once a favored tool for instructing the arts of computer science. Alas, as Unix has trampled all opposition, its own systems language has, in nepotistic glee, monopolized the minds of countless students. Ominously taking its name from the speed of light, C has become a mental cage that traps so many…
 
 Oh, I do apologize. These battles were fought long ago. It’s far too late for tears. Sometimes I lose myself.
 
-You know C, of course. Perfectly understandable. It is in the air that surrounds us, now, and you would be innocent to think it has always been so. To begin your exploration of the Macintosh it would be best to start on some familiar ground. Retrieve the installation disks for THINK C 5.0 from the *Macintosh Repository* (the `.zip` versions) while I get the kettle.
+You know C, of course. Perfectly understandable. It is in the air that surrounds us, now, and you would be innocent to think it has always been so. To begin your exploration of the Macintosh it would be best to start on some familiar ground. Retrieve the installation disks for THINK C 6.0 from the ethereal world of [Macintosh Repository](https://macintoshgarden.org/apps/symantec-think-c-60) while I get the kettle.
 
-Of the four disk images, the most important items are the compiler on disk 1 and the self-extracting archive of headers and libraries on disk 2.
+```
+$ wget https://github.com/ekbann/ekbann.github.io/blob/main/assets/dat/THINKC-DEV.zip
+$ unzip THINKC-DEV.zip
+```
+- `disk1.dsk` is a 100MB clean install of System 7.5.5.
+- `disk2.dsk` is a 30MB THINK C 6.0 development system.
+- `disk3.dsk` is a 30MB empty disk for your development files.
 
-Nothing shall be restrained from us, that we shall endeavor to do
-Nothing shall be restrained from us, that we shall endeavor to do
+Now we awaken the sleeping beast!
+```
+$ ./minivmac
+```
+
+It lives!
 
 ## Self-Actualization
 
