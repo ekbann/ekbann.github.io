@@ -94,7 +94,7 @@ $ cd ..
 
 ## Forge and Hammer
 
-At last, we need a few artifacts which brings with it the spirit of the machine. The read-only memory of another like mine, deftly flensed from aging silicon and transfigured into pure electrical potential:
+At last, we need a few artifacts which brings with it the spirit of the machine. The read-only memory of another like mine, deftly flensed from aging silicon and transfigured into pure electrical potential: `MacII.ROM`
 
 We must assemble a disk image with an operating system. To begin, we require a living specimen from which we may take cuttings.
 
@@ -115,6 +115,7 @@ The soul of the machine is broken into three parts as described below:
 - `disk1.dsk` is a 100MB clean install of System 7.5.5.
 - `disk2.dsk` is a 30MB THINK C 6.0 development system.
 - `disk3.dsk` is a 30MB empty disk for your development files.
+- `MacII.ROM` is the ROM image of the Macintosh II/IIx
 
 Now, we awaken the sleeping beast!
 ```
