@@ -10,7 +10,7 @@ categories: macintosh c retro programming
 
 ## Before You Begin...
 
-I went to college from 1991 to 1996. What did computers look like in 1994? A mid-range PC typically had a clock-doubled 486DX2-66, 8 MB of RAM, and a 320 MB hard disk. We're going to explore an equivalent Apple Macintosh machine from that era. I never owned a Macintosh during my college years but my sister did, how lucky she was. The Apple Macintosh II series was released in 1987 and had a healthy run until 1993. The Macintosh System 7 operating system debuted in 1991, and the version we use (7.5.5) in our system was released in 1994. Symantec's amazing THINK C version 6 was released in 1993. So, let's go back in time and revisit the good old days!
+I went to college from 1991 to 1996. What did computers look like in 1994? A mid-range PC typically had a clock-doubled 486DX2-66, 8 MB of RAM, and a 320 MB hard disk. We're going to explore an equivalent Apple Macintosh machine from that era. I never owned a Macintosh during my college years, but my sister did... how lucky she was. The Apple Macintosh II series was released in 1987 and had a healthy run until 1993. The Macintosh System 7 operating system debuted in 1991, and the version we use (7.5.5) in our system was released in 1994. Symantec's amazing THINK C version 6 was released in 1993. So, let's go back in time and revisit the good old days!
 
 I shamelessly plagiarized the colorful metaphors used in John Earnest's article from [Beyond Loom](https://beyondloom.com/blog/thinkc.html) and streamlined the instructions to the slightly more modern system above.
 
@@ -22,7 +22,7 @@ Welcome, child! Come in, come in! I have so few visitors to this little hut. Pul
 
 I can see from the wedge of machined aluminum you cradle, its outer surface festooned with glyphs and incantations, that you, too, are a *programmer*. Things have changed so much over the years. What’s that? Oh, you noticed one of my antiques:
 
-An elegant machine from a more enlightened age. A 32-bit processor built by… well, I suppose the details don’t matter. Impossibly slow and cramped compared your starkly modernist folio. Ah, but I see in you a spark of curiosity! Perhaps, perhaps…
+An elegant machine from a more enlightened age. A 32-bit processor built by… well, I suppose the details don’t matter. Impossibly slow and cramped compared to your starkly modernist folio. Ah, but I see in you a spark of curiosity! Perhaps, perhaps…
 
 I’m afraid my device is too fragile for the roughousing of a novice- it has spent so many years feeling only my touch. Recall, however, the proofs of our saint Turing. We could teach your new machine some old tricks!
 
@@ -37,7 +37,7 @@ apt install zip unzip curl sudo htop
 
 Install sound drivers.
 ```
-apt install alsa-utils pulseaudio
+apt install alsa-utils pulseaudio firmware-intel-sound
 alsactl kill quit
 alsactl init
 pulseaudio --kill
@@ -88,7 +88,7 @@ And now we can finally compile Mini vMac:
 ```
 $ . /setup.sh
 $ make
-$ mv minivmac ../
+$ mv minivmac ../vmac
 $ cd ..
 ```
 
@@ -119,7 +119,7 @@ The soul of the machine is broken into three parts as described below:
 
 Now, we awaken the sleeping beast!
 ```
-$ ./minivmac
+$ startx ./vmac
 ```
 
 It lives!
