@@ -19,12 +19,6 @@ My quest to learn computer architecture and programming started in the 80s with 
 - CPU: Intel Core i9-9980HK 2.4GHz (Turbo 5GHz) 8-cores HT
 - GPU: Intel UHD Graphics 630 with shared memory
 - dGPU: AMD Radeon Vega 20 with 4GB HBM2 memory (5300 G3D Mark)
-
-  > 560X (3678 G3D Mark)  
-  > Vega 16 (4809 G3D Mark)  
-  > 5500M (6816 G3D Mark)  
-  > GeForce GTX1070 Max-Q (13,516 G3D Mark)
-
 - Screen: 15" Retina and True Tone 2880x1800 with touch bar
 - Memory: 32GB onboard RAM
 - Storage: 2TB onboard flash storage
@@ -33,7 +27,7 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
-## Family Desktop: 2020 Mac mini M1 
+## SP Family Desktop: 2020 Mac mini M1 
 
 - Date acquired: November 2023 ($350, includes $80 Satechi USB-C Hub) (ML used R$4,000)
 - Model: A1990-3359 (Macmini9,1)
@@ -48,6 +42,17 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 - External Displays: up to two displays 1x 6K (16:9) Thunderbolt and 1x DCI 4K (16:9) HDMI
 
 Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
+
+## NC Family Desktop: 2019 iMac 21.5" Retina 4K
+
+- Date acquired: July 2024 ($300, includes $50 Apple wired keyboard/mouse) (ML used R$)
+- Model: A2116-3195 (iMac19,2)
+- CPU: Intel Core i7-8700 3.2GHz (Turbo 4.6GHz) 6-cores HT
+- dGPU: AMD Radeon Pro 560X with 4GB GDDR5 memory (3678 G3D Mark)
+- Screen: 21.5" Retina 4K 4096x2304
+- Memory: 8GB DDR4 SDRAM memory
+- Storage: 1TB HDD/Fusion Drive (32GB SSD)
+- External Displays: up to two 4K UHD displays (4096x2304 or 3840x2160) 60Hz and one 5K display (5120x2880) 60Hz
 
 ## Mother Laptop: 2020 13" MacBook Air M1
 
