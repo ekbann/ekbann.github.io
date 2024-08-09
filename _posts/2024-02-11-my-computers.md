@@ -45,7 +45,7 @@ Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 
 ## NC Family Desktop: 2019 iMac 21.5" Retina 4K
 
-- Date acquired: July 2024 ($300, plus $50 Apple wired keyboard/mouse) (ML used R$)
+- Date acquired: July 2024 ($300, plus $50 Apple wired keyboard/mouse) (ML used R$6,500)
 - Model: A2116-3195 (iMac19,2)
 - CPU: Intel Core i7-8700 3.2GHz (Turbo 4.6GHz) 6-cores HT
 - dGPU: AMD Radeon Pro 560X with 4GB GDDR5 memory (3678 G3D Mark)
@@ -64,7 +64,7 @@ Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
 - CPU: Intel Core i7-8750H 2.2GHz (Turbo 4.1GHz) 6-cores HT
 - Memory: 32GB DDR4-2666
 - Storage: 2TB M.2 2280
-- GPU: GTX 1070 Max-Q 8GB GDDR5 VRAM
+- GPU: GTX 1070 Max-Q 8GB GDDR5 VRAM (9918 G3D Mark)
 - Screen: 1920x1080 (16:9) 144Hz
 
 ## Retro Machine: Apple Macintosh II
