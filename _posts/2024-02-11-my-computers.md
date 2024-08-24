@@ -29,7 +29,7 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
 ## Father Laptop (Travel): 2020 13" MacBook Pro M1
 
-- Date acquired: August 2024 ($550) (ML used R$)
+- Date acquired: August 2024 ($550) (ML used R$7,600)
 - Model: A2338 (MacBookPro17,1)
 - CPU: Apple M1 chip  
 
