@@ -12,7 +12,8 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 ![Apple 2 Plus](/assets/img/apple2plus.jpeg "Apple 2 Plus")
 
-## Father Laptop (Home): 2019 15" MacBook Pro i9
+## Father Laptop(s)
+## (Home): 2019 15" MacBook Pro i9
 
 - Date acquired: February 2024 ($560) (ML used R$9,000)
 - Model: A1990-3359 (MacBookPro15,3)
@@ -27,7 +28,7 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
-## Father Laptop (Travel): 2021 14" MacBook Pro M1 Max
+## (Travel): 2021 14" MacBook Pro M1 Max
 
 - Date acquired: October 2024 ($1800) (R$10,000 @5.7)
 - Model: A2442 (MacBookPro18,4)
