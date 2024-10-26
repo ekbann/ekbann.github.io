@@ -12,7 +12,7 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 ![Apple 2 Plus](/assets/img/apple2plus.jpeg "Apple 2 Plus")
 
-## Father Laptop (Home): 2019 15" MacBook Pro 
+## Father Laptop (Home): 2019 15" MacBook Pro i9
 
 - Date acquired: February 2024 ($560) (ML used R$9,000)
 - Model: A1990-3359 (MacBookPro15,3)
@@ -21,42 +21,26 @@ My quest to learn computer architecture and programming started in the 80s with 
 - dGPU: AMD Radeon Vega 20 with 4GB HBM2 memory (5300 G3D Mark)
 - Screen: 15" Retina and True Tone 2880x1800 with touch bar
 - Memory: 32GB onboard RAM
-- Storage: 2TB onboard flash storage
+- Storage: 1TB onboard flash storage
 - Battery: 10 hours runtime
 - External Displays: up to 2x 5K (16:9) or 4x DCI 4K (16:9)
 
 Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
-## Father Laptop (Travel): 2020 13" MacBook Pro M1
+## Father Laptop (Travel): 2021 14" MacBook Pro M1 Max
 
-- Date acquired: August 2024 ($550) (ML used R$7,600)
-- Model: A2338 (MacBookPro17,1)
-- CPU: Apple M1 chip  
+- Date acquired: October 2024 ($1800) (R$10,000 @5.7)
+- Model: A2442 (MacBookPro18,4)
+- CPU: Apple M1 Max chip  
 
-  > 8-core CPU with 4 performance cores and 4 efficiency cores  
-  > 8-core GPU  
+  > 10-core CPU with 8 performance cores and 2 efficiency cores  
+  > 32-core GPU  
   > 16-core Neural Engine
 
-- Memory: 16GB unified memory
-- Storage: 256GB onboard flash storage
-- Screen: 13" Retina and True Tone 2560x1600 with touch bar
-- External Displays: 6016x3384 (6K) at 60Hz
-
-## SP Family Desktop: 2020 Mac mini M1 
-
-- Date acquired: November 2023 ($350, includes $80 Satechi USB-C Hub) (ML used R$4,000)
-- Model: A1990-3359 (Macmini9,1)
-- CPU: Apple M1 chip  
-
-  > 8-core CPU with 4 performance cores and 4 efficiency cores  
-  > 8-core GPU  
-  > 16-core Neural Engine
-
-- Memory: 8GB unified memory
-- Storage: 256GB onboard flash storage
-- External Displays: up to two displays 1x 6K (16:9) Thunderbolt and 1x DCI 4K (16:9) HDMI
-
-Sold: 2017 15" MacBook Pro i7 16GB/512GB; R$2,000 ($400)
+- Memory: 32GB unified memory
+- Storage: 8TB onboard flash storage
+- Screen: 14.2" Retina ProMotion and True Tone 3024x1964
+- External Displays: 3 × 6K at 60Hz (Thunderbolt) + 4K at 60Hz (HDMI)
 
 ## NC Family Desktop: 2019 iMac 21.5" Retina 4K
 
