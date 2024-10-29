@@ -27,19 +27,19 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
-## Father Laptop:: 2021 14" MacBook Pro M1 Max
+## Father Laptop: 2021 14" MacBook Pro M1 Max
 
 - Date acquired: October 2024 ($1800) (R$10,000 @5.7)
 - Model: A2442 (MacBookPro18,4)
 - CPU: Apple M1 Max chip  
 
   > 10-core CPU with 8 performance cores and 2 efficiency cores  
-  > 32-core GPU  
+  > 24-core GPU  
   > 16-core Neural Engine
 
 - Memory: 32GB unified memory
 - Storage: 8TB onboard flash storage
-- Screen: 14.2" Retina ProMotion and True Tone 3024x1964
+- Screen: 14.2" Liquid Retina XDR 3024x1964
 - External Displays: 3 × 6K at 60Hz (Thunderbolt) + 4K at 60Hz (HDMI)
 
 ## NC Family Desktop: 2019 iMac 21.5" Retina 4K
