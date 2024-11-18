@@ -29,7 +29,7 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
 ## Father Laptop: 2021 14" MacBook Pro M1 Max
 
-- Date acquired: October 2024 ($1800) (R$10,000 @5.7)
+- Date acquired: October 2024 ($1800)
 - Model: A2442 (MacBookPro18,4)
 - CPU: Apple M1 Max chip  
 
@@ -41,6 +41,8 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 - Storage: 8TB onboard flash storage
 - Screen: 14.2" Liquid Retina XDR 3024x1964
 - External Displays: 3 × 6K at 60Hz (Thunderbolt) + 4K at 60Hz (HDMI)
+
+Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 
 ## NC Family Desktop: 2019 iMac 21.5" Retina 4K
 
@@ -55,7 +57,7 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
 ## Mother Laptop: 2020 13" MacBook Air M1
 
-- Memory: 8GB unified memory
+- Memory: 16GB unified memory
 - Storage: 256GB onboard flash storage
 
 ## Son Laptop: 2018 15" Alienware m15
