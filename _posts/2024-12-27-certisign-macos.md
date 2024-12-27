@@ -14,7 +14,6 @@ If you never installed `DesktopID` before, start from step 3.
 
 1. Uninstall `DesktopID` (drag to Trash).
 2. Delete residual files from the directories:
-
 ```
 ~/Library/Application Support 
 /Library/Application Support 
