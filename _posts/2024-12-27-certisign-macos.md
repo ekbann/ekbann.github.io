@@ -13,13 +13,11 @@ categories: certisign macos
 If you never installed `DesktopID` before, start from step 3.
 
 1. Uninstall `DesktopID` (drag to Trash).
-2. Delete residual files from the directories:
+2. Delete residual files from the directories (drag to Trash):
 ```
 ~/Library/Application Support 
 /Library/Application Support 
 ```
-And drag them to the trash.
-
 3. Re-install `DesktopID` and run it.
 4. Configure your computer using `remoteID` instead of `mobileID`.
 5. Use your `remoteID` login credentials.
