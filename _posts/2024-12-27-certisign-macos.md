@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Certisign Digital Signature on Silicon Macs"
+title:  "Certisign Digital Signature on Apple Silicon"
 date:   2024-12-27 12:44:36 -0300
 categories: certisign macos
 ---
