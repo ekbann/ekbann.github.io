@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Certisign Digital Signature"
+title:  "Certisign Digital Signature on Silicon Macs"
 date:   2024-12-27 12:44:36 -0300
 categories: certisign macos
 ---
-### Install on a Silicon Apple
+### How to Install
 
 ![certisign logo](/assets/img/certisign-seeklogo.png "Certisign logo")
-
-## How-To
 
 If you never installed `DesktopID` before, start from step 3.
 
