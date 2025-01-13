@@ -31,7 +31,7 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
 - Date acquired: October 2024 ($1800)
 - Model: A2442 (MacBookPro18,4)
-- CPU: Apple M1 Max chip  
+- CPU: Apple M1 Max  
 
   > 10-core CPU with 8 performance cores and 2 efficiency cores  
   > 24-core GPU  
@@ -58,11 +58,11 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 ## 2020 13" MacBook Air M1
 
 - Date acquired: December 2024 ($350)
-- Model: A2442 (MacBookPro18,4)
-- CPU: Apple M1 chip  
+- Model: A2442 (MacBookAir10,1)
+- CPU: Apple M1
 
   > 8-core CPU with 4 performance cores and 4 efficiency cores  
-  > 8-core GPU  
+  > 7-core GPU  
   > 16-core Neural Engine
 
 - Memory: 8GB unified memory
@@ -73,7 +73,7 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 ## 2015 11" MacBook Air
 
 - Date acquired: January 2025 ($120)
-- Model: A2442 (MacBookPro18,4)
+- Model: A2442 (MacBookAir7,1)
 - CPU: 1.6GHz dual-core Intel Core i5 (Turbo Boost 2.7GHz)
 - Memory: 4GB of 1600MHz LPDDR3
 - Graphics: Intel HD Graphics 6000 (874 G3D Mark)
