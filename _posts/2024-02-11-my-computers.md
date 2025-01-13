@@ -12,7 +12,7 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 ![Apple 2 Plus](/assets/img/apple2plus.jpeg "Apple 2 Plus")
 
-## Father Laptop: 2019 15" MacBook Pro i9
+## 2019 15" MacBook Pro i9
 
 - Date acquired: February 2024 ($560) (ML used R$9,000)
 - Model: A1990-3359 (MacBookPro15,3)
@@ -27,7 +27,7 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
-## Father Laptop: 2021 14" MacBook Pro M1 Max
+## 2021 14" MacBook Pro M1 Max
 
 - Date acquired: October 2024 ($1800)
 - Model: A2442 (MacBookPro18,4)
@@ -44,7 +44,7 @@ Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
 
 Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 
-## NC Family Desktop: 2019 iMac 21.5" Retina 4K
+## 2019 iMac 21.5" Retina 4K
 
 - Date acquired: July 2024 ($300, plus $50 Apple wired keyboard/mouse) (ML used R$6,500)
 - Model: A2116-3195 (iMac19,2)
@@ -55,12 +55,33 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - Storage: 1TB HDD/Fusion Drive (32GB SSD)
 - External Displays: up to two 4K UHD displays (4096x2304 or 3840x2160) 60Hz and one 5K display (5120x2880) 60Hz
 
-## Mother Laptop: 2020 13" MacBook Air M1
+## 2020 13" MacBook Air M1
 
-- Memory: 16GB unified memory
+- Date acquired: December 2024 ($350)
+- Model: A2442 (MacBookPro18,4)
+- CPU: Apple M1 chip  
+
+  > 8-core CPU with 4 performance cores and 4 efficiency cores  
+  > 8-core GPU  
+  > 16-core Neural Engine
+
+- Memory: 8GB unified memory
 - Storage: 256GB onboard flash storage
+- Screen: 13.3" Retina 2560x1600
+- External Displays: 1 × 6K at 60Hz (Thunderbolt 3)
 
-## Son Laptop: 2018 15" Alienware m15
+## 2015 11" MacBook Air
+
+- Date acquired: January 2025 ($120)
+- Model: A2442 (MacBookPro18,4)
+- CPU: 1.6GHz dual-core Intel Core i5 (Turbo Boost 2.7GHz)
+- Memory: 4GB of 1600MHz LPDDR3
+- Graphics: Intel HD Graphics 6000 (874 G3D Mark)
+- Storage: 128GB PCIe flash storage
+- Screen: 11.6" LED 1366x768
+- External Displays: 3840x2160 (Thunderbolt)
+
+## 2018 15" Alienware m15
 
 - CPU: Intel Core i7-8750H 2.2GHz (Turbo 4.1GHz) 6-cores HT
 - Memory: 32GB DDR4-2666
