@@ -113,3 +113,17 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 #### Wickedly Fast!
 
 ![Speedometer 3](/assets/img/speedometer3.png "Speedometer 3")
+
+#### Now let's do some serious work, the good old way!
+
+- Mathcad 3.1
+- Finale 2.6.3
+- AutoCAD R10c5
+- MS Word 5.1a
+- MS Excel 4.0
+- THINK Pascal 4.0
+- Mac App 2.0
+- THINK Reference 2.0
+- THINK C 6.0.1
+- TCL 1.1.3
+- RedEdit 2.1.3
