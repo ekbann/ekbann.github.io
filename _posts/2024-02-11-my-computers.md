@@ -116,14 +116,14 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 
 #### Now let's do some serious work, the good old way!
 
-- Mathcad 3.1
-- Finale 2.6.3
-- AutoCAD R10c5
-- MS Word 5.1a
-- MS Excel 4.0
-- THINK Pascal 4.0
+- Mathcad 3.1 (1992)
+- Finale 2.6.3 (1989)
+- AutoCAD R10c5 (1988)
+- MS Word 5.1a (1992)
+- MS Excel 4.0 (1992)
+- THINK Pascal 4.0 (1992)
 - Mac App 2.0
-- THINK Reference 2.0
-- THINK C 6.0.1
+- THINK Reference 2.0 (1993)
+- THINK C 6.0.1 (1993)
 - TCL 1.1.3
 - RedEdit 2.1.3
