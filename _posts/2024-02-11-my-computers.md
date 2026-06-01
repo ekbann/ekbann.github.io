@@ -12,9 +12,9 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 ![Apple 2 Plus](/assets/img/apple2plus.jpeg "Apple 2 Plus")
 
-## \enclose{horizontalstrike}{2019 15" MacBook Pro i9}
+## 2019 15" MacBook Pro i9
 
-- Date acquired: February 2024 ($560) (ML used R$9,000)
+- Date acquired: February 2024 ($560)
 - Model: A1990-3359 (MacBookPro15,3)
 - CPU: Intel Core i9-9980HK 2.4GHz (Turbo 5GHz) 8-cores HT
 - GPU: Intel UHD Graphics 630 with shared memory
@@ -25,7 +25,7 @@ My quest to learn computer architecture and programming started in the 80s with 
 - Battery: 10 hours runtime
 - External Displays: up to 2x 5K (16:9) or 4x DCI 4K (16:9)
 
-Comparable to: 15" MacBook Air M2 16GB/1TB; Education price $1,760 (R$8,800)
+SOLD $900
 
 ## 2021 14" MacBook Pro M1 Max
 
@@ -81,6 +81,16 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - Screen: 11.6" LED 1366x768
 - External Displays: 3840x2160 (Thunderbolt)
 
+## 2026 Gamer Desktop (Used)
+
+- Date acquired: June 2026 ($540)
+- CPU: Intel Core i5-12400F 2.5GHz (Turbo 4.4GHz) 6-cores HT
+- Memory: 32GB DDR4-2666
+- Storage: 1TB M.2 NVMe
+- GPU: Nvidia GeForce GTX 1660 Super 6GB GDDR6 VRAM (12,684 G3D Mark)
+- Motherboard: Asus Prime H610M-E D4
+- Screen: 23.8" Acer Nitro KG243Y P1BIP 1920x1080 (16:9) 144Hz ($130 NEW)
+
 ## 2018 15" Alienware m15
 
 - CPU: Intel Core i7-8750H 2.2GHz (Turbo 4.1GHz) 6-cores HT
@@ -88,6 +98,8 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - Storage: 2TB M.2 2280
 - GPU: GTX 1070 Max-Q 8GB GDDR5 VRAM (9918 G3D Mark)
 - Screen: 1920x1080 (16:9) 144Hz
+
+DONATED
 
 ## Retro Machine: Apple Macintosh II
 
