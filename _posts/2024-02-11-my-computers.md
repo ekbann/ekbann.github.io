@@ -12,7 +12,7 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 ![Apple 2 Plus](/assets/img/apple2plus.jpeg "Apple 2 Plus")
 
-## 2019 15" MacBook Pro i9
+## \enclose{horizontalstrike}{2019 15" MacBook Pro i9}
 
 - Date acquired: February 2024 ($560) (ML used R$9,000)
 - Model: A1990-3359 (MacBookPro15,3)
