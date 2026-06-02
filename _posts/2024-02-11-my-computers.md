@@ -115,11 +115,11 @@ DONATED
 ![Macintosh 2](/assets/img/macintosh_ii.jpeg "Macintosh 2")
 
 - Host Machine: Acer Chromebook 14
-- CPU: Intel Atom x5-E8000 Quad-Core 1.04GHz (Turbo 2.0GHz)
+- CPU: Intel Celeron N3160 Quad-Core 1.6GHz (Turbo 2.24GHz, 2MB Cache)
 - Memory: 4GB LPDDR3
 - Storage: 32GB eMMC
 - GPU: Intel HD Graphics
-- Screen: 14" HD IPS ComfyView LCD LED Display 1366x768 (16:9)
+- Screen: 14" HD IPS ComfyView LCD LED Display 1920x1080 (16:9)
 - OS: Debian Linux running Mini vMac II
 
 #### Wickedly Fast!
