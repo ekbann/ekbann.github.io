@@ -12,20 +12,30 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 ![Apple 2 Plus](/assets/img/apple2plus.jpeg "Apple 2 Plus")
 
-## 2019 15" MacBook Pro i9
+## 2026 13" MacBook Neo
 
-- Date acquired: February 2024 ($560 Used)
-- Model: A1990-3359 (MacBookPro15,3)
-- CPU: Intel Core i9-9980HK 2.4GHz (Turbo 5GHz) 8-cores HT
-- GPU: Intel UHD Graphics 630 with shared memory
-- dGPU: AMD Radeon Vega 20 with 4GB HBM2 memory (5300 G3D Mark)
-- Screen: 15" Retina and True Tone 2880x1800 with touch bar
-- Memory: 32GB onboard RAM
-- Storage: 1TB onboard flash storage
-- Battery: 10 hours runtime
-- External Displays: up to 2x 5K (16:9) or 4x DCI 4K (16:9)
+- Date acquired: April 2026 ($500)
+- Model: A3404 (Mac17,5)
+- CPU: Apple A18 Pro  
 
-SOLD $900
+  > 6-core CPU with 2 performance cores and 4 efficiency cores  
+  > 5-core GPU  
+  > 16-core Neural Engine
+
+- Memory: 8GB unified memory
+- Storage: 256GB onboard flash storage
+- Screen: 13.0" Liquid Retina 2408x1506
+- External Displays: 1 × 4K at 60Hz (3840x2160) concurrently
+
+## 2022 Corsair Gamer Desktop
+
+- Date acquired: June 2026 ($540 Used)
+- CPU: Intel Core i5-12400F 2.5GHz (Turbo 4.4GHz) 6-cores HT (19,578 CPU Mark)
+- Memory: 32GB DDR4-2666
+- Storage: 1TB M.2 NVMe
+- GPU: Nvidia GeForce GTX 1660 Super 6GB GDDR6 VRAM (12,684 G3D Mark)
+- Motherboard: Asus Prime H610M-E D4
+- Screen: 23.8" Acer Nitro KG243Y P1BIP 1920x1080 (16:9) 144Hz ($130 New)
 
 ## 2021 14" MacBook Pro M1 Max
 
@@ -44,17 +54,6 @@ SOLD $900
 
 Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 
-## 2019 iMac 21.5" Retina 4K
-
-- Date acquired: July 2024 ($300, plus $50 Apple wired keyboard/mouse) (ML used R$6,500)
-- Model: A2116-3195 (iMac19,2)
-- CPU: Intel Core i7-8700 3.2GHz (Turbo 4.6GHz) 6-cores HT
-- dGPU: AMD Radeon Pro 560X with 4GB GDDR5 memory (3678 G3D Mark)
-- Screen: 21.5" Retina 4K 4096x2304
-- Memory: 8GB DDR4 SDRAM memory
-- Storage: 1TB HDD/Fusion Drive (32GB SSD)
-- External Displays: up to two 4K UHD displays (4096x2304 or 3840x2160) 60Hz and one 5K display (5120x2880) 60Hz
-
 ## 2020 13" MacBook Air M1
 
 - Date acquired: December 2024 ($350)
@@ -70,6 +69,17 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - Screen: 13.3" Retina 2560x1600
 - External Displays: 1 × 6K at 60Hz (Thunderbolt 3)
 
+## 2019 iMac 21.5" Retina 4K
+
+- Date acquired: July 2024 ($300, plus $50 Apple wired keyboard/mouse) (ML used R$6,500)
+- Model: A2116-3195 (iMac19,2)
+- CPU: Intel Core i7-8700 3.2GHz (Turbo 4.6GHz) 6-cores HT
+- dGPU: AMD Radeon Pro 560X with 4GB GDDR5 memory (3678 G3D Mark)
+- Screen: 21.5" Retina 4K 4096x2304
+- Memory: 8GB DDR4 SDRAM memory
+- Storage: 1TB HDD/Fusion Drive (32GB SSD)
+- External Displays: up to two 4K UHD displays (4096x2304 or 3840x2160) 60Hz and one 5K display (5120x2880) 60Hz
+
 ## 2015 11" MacBook Air
 
 - Date acquired: January 2025 ($120)
@@ -80,16 +90,6 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - Storage: 128GB PCIe flash storage
 - Screen: 11.6" LED 1366x768
 - External Displays: 3840x2160 (Thunderbolt)
-
-## 2026 Gamer Desktop
-
-- Date acquired: June 2026 ($540 Used)
-- CPU: Intel Core i5-12400F 2.5GHz (Turbo 4.4GHz) 6-cores HT (19,578 CPU Mark)
-- Memory: 32GB DDR4-2666
-- Storage: 1TB M.2 NVMe
-- GPU: Nvidia GeForce GTX 1660 Super 6GB GDDR6 VRAM (12,684 G3D Mark)
-- Motherboard: Asus Prime H610M-E D4
-- Screen: 23.8" Acer Nitro KG243Y P1BIP 1920x1080 (16:9) 144Hz ($130 New)
 
 ## 2018 15" Alienware m15
 
