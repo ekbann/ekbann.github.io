@@ -128,6 +128,7 @@ DONATED
 
 #### Now let's do some serious work, the good old way!
 
+- System 7.1 (1992)
 - Mathcad 3.1 (1992)
 - Finale 2.6.3 (1989)
 - AutoCAD R10c5 (1988)
@@ -136,6 +137,6 @@ DONATED
 - THINK Pascal 4.0 (1992)
 - Mac App 2.0
 - THINK Reference 2.0 (1993)
-- THINK C 6.0.1 (1993)
+- THINK C 5.0.2 (1992)
 - TCL 1.1.3
 - RedEdit 2.1.3
