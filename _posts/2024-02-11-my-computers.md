@@ -77,7 +77,8 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - dGPU: AMD Radeon Pro 560X with 4GB GDDR5 memory (3678 G3D Mark)
 - Screen: 21.5" Retina 4K 4096x2304
 - Memory: 8GB DDR4 SDRAM memory
-- Storage: 1TB HDD/Fusion Drive (32GB SSD)
+- Storage: (macOS) Crucial P310 500GB PCIe Gen4 x4 NVMe M.2 2280 Thunderbolt 3 ($152)
+- Storage: (Data) 1TB HDD/Fusion Drive (32GB SSD)
 - External Displays: up to two 4K UHD displays (4096x2304 or 3840x2160) 60Hz and one 5K display (5120x2880) 60Hz
 
 ## 2015 11" MacBook Air
@@ -91,15 +92,16 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - Screen: 11.6" LED 1366x768
 - External Displays: 3840x2160 (Thunderbolt)
 
-## 2018 15" Alienware m15
+## 1986 Apple IIGS
 
-- CPU: Intel Core i7-8750H 2.2GHz (Turbo 4.1GHz) 6-cores HT (9751 CPU Mark)
-- Memory: 32GB DDR4-2666
-- Storage: 2TB M.2 2280
-- GPU: GTX 1070 Max-Q 8GB GDDR5 VRAM (9918 G3D Mark)
-- Screen: 1920x1080 (16:9) 144Hz
-
-DONATED
+- Date acquired: August 2026 ($350)
+- CPU: WDC 65C816 2.8MHz
+- Memory: 256KB FAST RAM, 8MB Expansion RAM
+- Storage: Apple 5.25" Floppy Disk Drive
+- Graphics: 320x200 (4-bit), 640x200 (2-bit)
+- Sound: Ensoniq ES5503 DOC 8-bit wavetable synthesis chip, 32 channels
+- Display: AppleColor RGB Monitor
+- Printer: Apple ImageWriter II
 
 ## Retro Machine: Apple Macintosh II
 
