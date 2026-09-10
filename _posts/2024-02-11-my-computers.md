@@ -96,7 +96,7 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 
 - Date acquired: August 2026 ($350 + $126 shipping)
 - CPU: WDC 65C816 2.8MHz
-- Memory: 256KB FAST RAM, 8MB Expansion RAM
+- Memory: 256KB on-board RAM, 8MB Expansion RAM
 - Graphics: 320x200 (4-bit), 640x200 (2-bit)
 - Sound: Ensoniq ES5503 DOC 8-bit wavetable synthesis chip, 32 channels
 - Storage: Apple 5.25" Floppy Disk Drive
