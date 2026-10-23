@@ -117,6 +117,8 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - Display: AppleColor RGB Monitor
 - Printer: Apple ImageWriter II
 
+![Apple IIGS](/assets/img/appleiigs.jpeg "Apple IIGS")
+
 ## Retro Machine: Apple Macintosh II
 
 - CPU: Motorola 68020 32-bit 16MHz
