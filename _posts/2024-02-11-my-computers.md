@@ -54,6 +54,16 @@ My quest to learn computer architecture and programming started in the 80s with 
 
 Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 
+## 2021 17" Razer Blade 17
+
+- Date acquired: October 2026 (FREE)
+- CPU: Intel Core i9-11900H 2.5GHz (Turbo 4.9GHz) 6-cores HT (19,691 CPU Mark)
+- Memory: 64GB DDR4-3200 (51.2 Gb/s)
+- Storage 1: 1TB M.2 NVMe
+- Storage 2: 8TB M.2 NVMe
+- GPU: Nvidia GeForce RTX 3080 16GB GDDR6 VRAM (384 Gb/s) (16,023 G3D Mark)
+- Screen: 17.3" 3840x2160 4K UHD 120Hz
+
 ## 2020 13" MacBook Air M1
 
 - Date acquired: December 2024 ($350)
