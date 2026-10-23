@@ -63,6 +63,10 @@ Comparable to: 14" MacBook Pro M4 10/10/16/24GB/512GB ($1,800)
 - Storage 2: 8TB M.2 NVMe
 - GPU: Nvidia GeForce RTX 3080 16GB GDDR6 VRAM (384 Gb/s) (16,023 G3D Mark)
 - Screen: 17.3" 3840x2160 4K UHD 120Hz
+- LM Studio + ISTA-DASLab Qwen3.8-27B GSQ-RCO IQ3_S (Dense 3.5 bpw) (11.8GB) (~45t/s) (128K KV cache)
+- PolyStrata + Qwen3.6-35B-A3B IQ4_K_M (MoE 3.5 bpw) (20.8GB) (~90t/s) (256K KV cache)
+- Fooocus + Juggernaut-XL-v8
+- SillyTavern + Magnum-12B Q8_0 (Storyline 128K KV cache) + Stheno-8B Q8_0 (Scenes 128K KV cache)
 
 ## 2020 13" MacBook Air M1
 
