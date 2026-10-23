@@ -10,7 +10,7 @@ categories: hardware computers
 
 My quest to learn computer architecture and programming started in the 80s with the `Apple ][+`.
 
-![Apple 2 Plus](/assets/img/apple2plus.jpeg "Apple 2 Plus")
+![Apple 2 Plus](/assets/img/apple2plus-2.jpeg "Apple 2 Plus")
 
 ## 2026 13" MacBook Neo
 
